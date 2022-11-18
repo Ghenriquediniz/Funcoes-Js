@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(224, 227, 236);
+}
+
+body {
+    padding-left: 45%;
+    margin-top: 25%; 
+}
+
+.resultado {
+    font-size: 150%;
+}
